@@ -11,7 +11,7 @@ This repository contains best practices and configurations for setting up and op
 
 ## Getting Started
 
-1. Review the [best practices](docs/best_practices.md).
+1. Review the [best practices](docs/best_practices).
 2. Apply configurations using the provided [scripts](scripts/).
 3. Validate settings with the [tests](tests/test_configurations.sh).
 
